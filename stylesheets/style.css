@@ -1,0 +1,31 @@
+* {
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+  }
+
+  h1 {
+    font-style: italic
+  }
+
+  h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  #title {
+    color: darkgrey;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  #link {
+    list-style-type: none;
+  }
+
+  .seccion {
+    border: 0.8pt solid #c1bdbd;
+  }

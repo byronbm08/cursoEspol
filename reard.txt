@@ -1,0 +1,5 @@
+la secuencia de un css 
+*
+h1
+ esto se lo defini como efecto cascada
+ 
